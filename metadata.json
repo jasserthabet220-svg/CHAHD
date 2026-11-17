@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Chahed",
+  "description": "A romantic birthday surprise gift for Chahed with photos, songs, and a heartfelt letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
